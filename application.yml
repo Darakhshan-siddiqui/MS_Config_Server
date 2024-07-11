@@ -8,8 +8,5 @@ boot:
 spring:
   application:
     name: WELCOME_API_CONFIG 
-spring:
-  application:
-    name: WELCOME_API_CONFIG1 
 
     
