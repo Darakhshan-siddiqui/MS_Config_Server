@@ -1,1 +1,7 @@
-
+cloud:
+  compatibility-verifier:
+    enabled: false
+boot:
+  admin:
+    client:
+      uri: http://localhost:1111/
