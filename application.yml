@@ -5,3 +5,7 @@ boot:
   admin:
     client:
       uri: http://localhost:1111/
+spring:
+  application:
+    name: MS-Config_Server
+    
