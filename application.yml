@@ -7,5 +7,5 @@ boot:
       uri: http://localhost:1111/
 spring:
   application:
-    name: MS-Config_Server
+    name: WELCOME_API_CONFIG
     
