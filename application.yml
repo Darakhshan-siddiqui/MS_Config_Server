@@ -1,8 +1,4 @@
 
-boot:
-  admin:
-    client:
-      uri: http://localhost:1111/
 
 
     
