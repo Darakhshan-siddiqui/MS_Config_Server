@@ -5,9 +5,3 @@ boot:
   admin:
     client:
       url: http://localhost:1111/
-spring:
-  application:
-    name: welcome_API_Config
-
-
-    
